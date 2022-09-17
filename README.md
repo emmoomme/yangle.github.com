@@ -15,3 +15,4 @@ progress have made:
 2:my English has made many progresses in hearing and vocabulary;
 3:have more experience with society;
 4:have more confidence;
+5:have a clear plan about future;
